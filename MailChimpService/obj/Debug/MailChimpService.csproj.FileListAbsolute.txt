@@ -1,0 +1,204 @@
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\roslyn\csc.exe
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\roslyn\System.Collections.Immutable.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\roslyn\vbc.exe
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\roslyn\VBCSCompiler.exe
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\roslyn\VBCSCompiler.exe.config
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\MailChimpService.dll.config
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\MailChimpService.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\MailChimpService.pdb
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Antlr3.Runtime.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\EntityFramework.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\EntityFramework.SqlServer.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Mandrill.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.Owin.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Google.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.Web.Infrastructure.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Newtonsoft.Json.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Owin.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\System.Web.Optimization.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\System.Web.Providers.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\WebGrease.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Mandrill.xml
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Newtonsoft.Json.xml
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\System.Web.Optimization.xml
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Antlr3.Runtime.pdb
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\EntityFramework.xml
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\EntityFramework.SqlServer.xml
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\System.Web.Providers.xml
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.Owin.xml
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.xml
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Google.xml
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\obj\Debug\MailChimpService.csprojResolveAssemblyReference.cache
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\obj\Debug\MailChimpService.dll
+c:\users\saptadellpc\documents\visual studio 2015\Projects\MailChimpService\MailChimpService\obj\Debug\MailChimpService.pdb
+H:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\csc.exe
+H:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\System.Collections.Immutable.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\System.Reflection.Metadata.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\vbc.exe
+H:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\VBCSCompiler.exe
+H:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\VBCSCompiler.exe.config
+H:\MailChimpService\MailChimpService\MailChimpService\bin\MailChimpService.dll.config
+H:\MailChimpService\MailChimpService\MailChimpService\bin\MailChimpService.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\MailChimpService.pdb
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Antlr3.Runtime.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\AspNet.ScriptManager.bootstrap.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\AspNet.ScriptManager.jQuery.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\EntityFramework.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\EntityFramework.SqlServer.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Mandrill.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.AspNet.Identity.Core.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Cookies.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Facebook.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Google.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.OAuth.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Twitter.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.ScriptManager.WebForms.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Web.Infrastructure.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Newtonsoft.Json.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Owin.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\System.Web.Optimization.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\System.Web.Providers.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\WebGrease.dll
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Mandrill.xml
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Newtonsoft.Json.xml
+H:\MailChimpService\MailChimpService\MailChimpService\bin\System.Web.Optimization.xml
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Antlr3.Runtime.pdb
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\MailChimpService\MailChimpService\MailChimpService\bin\EntityFramework.xml
+H:\MailChimpService\MailChimpService\MailChimpService\bin\EntityFramework.SqlServer.xml
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.AspNet.Identity.Core.xml
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\MailChimpService\MailChimpService\MailChimpService\bin\System.Web.Providers.xml
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.xml
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.xml
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Facebook.xml
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Cookies.xml
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Google.xml
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Twitter.xml
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.OAuth.xml
+H:\MailChimpService\MailChimpService\MailChimpService\obj\Debug\MailChimpService.dll
+H:\MailChimpService\MailChimpService\MailChimpService\obj\Debug\MailChimpService.pdb
+H:\MailChimpService\MailChimpService\MailChimpService\obj\Debug\MailChimpService.csprojResolveAssemblyReference.cache
+D:\MailChimpService\MailChimpService\MailChimpService\obj\Debug\MailChimpService.csprojResolveAssemblyReference.cache
+D:\MailChimpService\MailChimpService\MailChimpService\obj\Debug\MailChimpService.dll
+D:\MailChimpService\MailChimpService\MailChimpService\obj\Debug\MailChimpService.pdb
+D:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\csc.exe
+D:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\System.Collections.Immutable.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\System.Reflection.Metadata.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\vbc.exe
+D:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\VBCSCompiler.exe
+D:\MailChimpService\MailChimpService\MailChimpService\bin\roslyn\VBCSCompiler.exe.config
+D:\MailChimpService\MailChimpService\MailChimpService\bin\MailChimpService.dll.config
+D:\MailChimpService\MailChimpService\MailChimpService\bin\MailChimpService.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\MailChimpService.pdb
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Antlr3.Runtime.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\AspNet.ScriptManager.bootstrap.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\AspNet.ScriptManager.jQuery.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\EntityFramework.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\EntityFramework.SqlServer.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Mandrill.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Google.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.ScriptManager.WebForms.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Web.Infrastructure.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Newtonsoft.Json.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Owin.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\System.Web.Optimization.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\System.Web.Providers.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\WebGrease.dll
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Mandrill.xml
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Newtonsoft.Json.xml
+D:\MailChimpService\MailChimpService\MailChimpService\bin\System.Web.Optimization.xml
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Antlr3.Runtime.pdb
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\MailChimpService\MailChimpService\MailChimpService\bin\EntityFramework.xml
+D:\MailChimpService\MailChimpService\MailChimpService\bin\EntityFramework.SqlServer.xml
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MailChimpService\MailChimpService\MailChimpService\bin\System.Web.Providers.xml
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.xml
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.xml
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Google.xml
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MailChimpService\MailChimpService\MailChimpService\bin\Microsoft.Owin.Security.OAuth.xml
